@@ -1,0 +1,2 @@
+# VIOMAGZ-GRID
+Template Blog
